@@ -1,9 +1,6 @@
-# Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
-# Contributor: Sebastian A. Liem <sebastian at liem dot se>
-
 pkgname=slock
-pkgver=1.4
-pkgrel=4
+pkgver=1.5
+pkgrel=1
 pkgdesc="A simple screen locker for X"
 arch=('x86_64')
 url="https://tools.suckless.org/slock"
