@@ -1,5 +1,5 @@
 pkgname=slock
-pkgver=1.5
+pkgver=1.6
 pkgrel=1
 pkgdesc="A simple screen locker for X"
 arch=('x86_64')
@@ -10,7 +10,7 @@ depends=('libxext' 'libxrandr')
 #source=("slock-$pkgver.tar.bz2::https://hg.suckless.org/slock/archive/$_pkgver.tar.gz")
 #md5sums=('f91dd5ba50ce7bd1842caeca067086a3')
 source=("https://github.com/jemgoss/$pkgname/archive/refs/tags/v$pkgver.tar.gz")
-md5sums=("489b05843b0164a07388b0fab4b5a966")
+md5sums=("be1fe36acdf379658461497ec7e234b7")
 #
 #prepare() {
 #}
